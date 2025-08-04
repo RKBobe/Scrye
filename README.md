@@ -2,6 +2,7 @@
 
 This Codespace is configured for developing a cryptocurrency price prediction model using Python.  
 It includes the following:
+
 - Python 3.10
 - Data science libraries (NumPy, Pandas, scikit-learn, Matplotlib)
 - Jupyter Notebook
@@ -13,6 +14,7 @@ It includes the following:
 2. All dependencies will be installed automatically.
 3. Place your datasets in the `/data` directory.
 4. Start Jupyter Notebook with:
+
     ```bash
     jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
     ```

@@ -5,3 +5,5 @@ matplotlib
 jupyter
 requests
 yfinance
+gradio
+pandas-ta
